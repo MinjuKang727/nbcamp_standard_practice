@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: sparta
+
+  profiles:
+    active: local
+#    active: prod
+
